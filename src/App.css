@@ -61,3 +61,14 @@ ul {
 .car-paper {
   padding: 50px;
 }
+
+.importTable {
+  margin-right: 200px;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+
+.importButton{
+  margin-bottom: 20px;
+}
+
